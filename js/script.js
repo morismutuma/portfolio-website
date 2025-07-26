@@ -5,4 +5,11 @@ document.addEventListener('DOMContentLoaded', () => {
   hamburger.addEventListener('click', () => {
     navLinks.classList.toggle('show');
   });
+
+  // Close menu when a nav link is clicked (for mobile)
+  document.querySelectorAll('#nav-links a').forEach(link => {
+    link.addEventListener('click', () => {
+      navLinks.classList.remove('show');
+    });
+  });
 });
