@@ -1,0 +1,479 @@
+<iframe src="https://docs.google.com/forms/d/e/YOUR-FORM-ID/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<!-- Live Chat (Home Page Only) -->
+  <script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/YOUR_TAWKTO_ID/default';
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+  </script>
+
+
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #141433;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #00bfff;
+}
+
+
+ <section class="hero">
+    <img src="assets/images/moris passport photo.jpeg" alt="Moris Mutuma" class="profile-photo" />
+    <h1>Hello, I’m Moris Mutuma</h1>
+    <p>Aspiring Software Engineer | AI Enthusiast | Web Developer</p>
+    
+
+    <section class="skills-preview">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Python, Java</li>
+      <li>Django, Android (Java)</li>
+      <li>Machine Learning & Data Science</li>
+    </ul>
+    <a href="skills.html" class="read-more">→ View All Skills</a>
+  </section>
+
+
+   <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="projects.html" class="active">Projects</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+
+       <section class="about-section">
+    <div class="about-container">
+      <div class="about-text">
+        <h2>Hello! I'm Moris Mutuma</h2>
+        <p>
+          A passionate and innovative Computer Science graduate from Maasai Mara University with First Class Honours. I specialize in Full Stack Development, Data Science, Artificial Intelligence, and Mobile App Development. My mission is to use technology to solve real-world problems and contribute to digital transformation in Africa and beyond.
+        </p>
+        <p>
+          I’ve worked on a variety of projects involving Android apps, Django systems, and machine learning models. I’m also passionate about digital inclusion, climate resilience tech, and automation.
+        </p>
+        <p>
+          Outside tech, I love volunteering, research, and nature conservation.
+        </p>
+      </div>
+
+      <div class="about-image">
+        <img src="assets/images/moris passport photo.jpeg" alt="Moris Mutuma" />
+      </div>
+    </div>
+  </section>
+
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Skills</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Moris Mutuma - Skills</h1>
+  </header>
+
+  <section class="skills-section">
+    <h2>Technical Skills</h2>
+    <div class="skills-list">
+      <div class="skill-box">
+        <h3>Programming Languages</h3>
+        <ul>
+          <li>Python</li>
+          <li>Java</li>
+          <li>JavaScript</li>
+          <li>C++</li>
+        </ul>
+      </div>
+
+      <div class="skill-box">
+        <h3>Web & App Development</h3>
+        <ul>
+          <li>HTML5 & CSS3</li>
+          <li>React.js & Node.js</li>
+          <li>Android Studio</li>
+          <li>Django</li>
+        </ul>
+      </div>
+
+      <div class="skill-box">
+        <h3>Tools & Platforms</h3>
+        <ul>
+          <li>Git & GitHub</li>
+          <li>VS Code</li>
+          <li>MySQL / SQLite</li>
+          <li>Linux (Kali, Ubuntu)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Moris Mutuma. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+
+
+
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Contacts</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script defer src="js/script.js"></script>
+</head>
+
+
+
+<header>
+  <nav class="navbar">
+    <div class="logo">Moris Mutuma</div>
+    <ul class="nav-links">
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+  <footer>
+    <p>&copy; 2025 Moris Mutuma. All rights reserved.</p>
+    <div class="footer-socials">
+      <a href="https://github.com/morismutuma" target="_blank">GitHub</a> |
+      <a href="https://linkedin.com/in/moris-mutuma-97678b246" target="_blank">LinkedIn</a>
+    </div>
+  </footer>
+
+
+
+   <div class="footer-social">
+      <a href="https://github.com/morismutuma" target="_blank">GitHub</a> |
+      <a href="https://www.linkedin.com/in/moris-mutuma-97678b246" target="_blank">LinkedIn</a>
+    </div>
+  </footer>  
+
+
+   <footer>
+    <p>&copy; 2025 Moris Mutuma | All Rights Reserved</p>
+  </footer>
+
+   <footer>
+    <p>&copy; 2025 Moris Mutuma | <a href="https://github.com/morismutuma" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/moris-mutuma-97678b246" target="_blank">LinkedIn</a></p>
+  </footer>
+
+
+  <footer>
+    <p>&copy; 2025 Moris Mutuma. All rights reserved.</p>
+  </footer>
+
+
+
+
+
+
+    <h1>About Me</h1>
+  </header>
+
+<section class="about-section">
+  <div class="about-container">
+    <div class="about-image">
+      <img src="assets/images/moris passport photo.jpeg" alt="Moris Mutuma">
+    </div>
+    <div class="about-text">
+      <h2>About Me</h2>
+      <p>
+        I'm Moris Mutuma, a passionate software developer with a strong foundation in computer science, full-stack web development, and artificial intelligence. I hold First Class Honours from Maasai Mara University and specialize in building impactful and responsive digital solutions.
+      </p>
+      <p>
+        My portfolio showcases a range of projects, from mobile apps to machine learning models. I enjoy solving problems, learning new technologies, and collaborating to bring ideas to life.
+      </p>
+    </div>
+  </div>
+</section>
+
+
+
+
+   <h1>Contact Me</h1>
+    <p>I'd love to hear from you! Feel free to reach out using the form below.</p>
+
+    <!-- Google Form Embed -->
+    <div class="form-container">
+      <iframe 
+        src="https://docs.google.com/forms/d/e/1FAIpQLSe2GOO4IZDMpMGgAm209x3ekmqU8isa-vciD_JDzqEx2Xu3Sw/viewform?embedded=true" 
+        width="100%" 
+        height="1200" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0"
+        allowfullscreen>Loading…</iframe>
+    </div>
+
+
+ <a href="skills.html" class="btn">View Skills</a>
+
+
+    <div class="about-image">
+      <img src="assets/images/moris passport photo.jpeg" alt="Moris Mutuma">
+    </div>
+  </div>
+
+
+      <!-- Social Links -->
+    <div class="social-links">
+      <a href="https://github.com/morismutuma" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/morismutuma" target="_blank">LinkedIn</a>
+    </div>
+    
+    <!-- Resume Download Button -->
+    <a href="assets/resume/Moris_Mutuma_Resume.pdf" download class="btn">Download Resume</a>
+  </section>
+
+  <li><a href="skills.html">Skills</a></li>
+
+
+
+
+     
+  <nav class="navbar">
+    <div class="logo">Moris Mutuma</div>
+    <ul class="nav-links">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+
+    <section class="skills-preview">
+  <h2>Skills Summary</h2>
+  <p>I have experience in several programming languages, frameworks, and tools.</p>
+  <a href="skills.html" class="btn">View More Skills</a>
+</section>
+
+
+
+<section class="memberships-section">
+  <h2>Memberships</h2>
+  <ul>
+    <li>Member, Scientists of Kenya</li>
+  </ul>
+</section>
+
+
+
+<section class="memberships-section">
+  <div class="memberships-container">
+    <h2>Memberships</h2>
+    <p>Member, Scientists of Kenya</p>
+  </div>
+</section>
+
+
+.memberships-container {
+  text-align: center;
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 600px;
+}
+
+
+
+ <!-- CONTACT DETAILS -->
+  <section class="contact-info">
+    <h2>Contact Info</h2>
+    <p>Email: <a href="mailto:morismutuma11@gmail.com">morismutuma11@gmail.com</a></p>
+    <p>Phone: +254 798 400 295</p>
+    <a href="contact.html" class="btn">Read More</a>
+
+  </section>
+
+
+
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moris Mutuma | Portfolio</title>
+  <!-- Font Awesome for icons -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
+
+  <script defer src="js/script.js"></script>
+
+
+  <a href="https://github.com/morismutuma" target="_blank">GitHub</a> |
+      <a href="https://www.linkedin.com/in/moris-mutuma-97678b246" target="_blank">LinkedIn</a> |
+      <a href="mailto:morismutuma11@gmail.com">Email</a>
+
+
+      <section class="contact-info">
+  <h2>Contact Info</h2>
+  <p>
+    <i class="fas fa-envelope"></i>
+    <a href="mailto:morismutuma11@gmail.com">morismutuma11@gmail.com</a>
+  </p>
+  <p>
+    <i class="fas fa-phone-alt"></i>
+    +254 798 400 295
+  </p>
+</section>
+
+
+
+<section class="detailed-contact-info">
+  <h2>Contact Information</h2>
+  <p><i class="fas fa-envelope"></i> <a href="mailto:morismutuma11@gmail.com">morismutuma11@gmail.com</a></p>
+  <p><i class="fas fa-phone"></i> +254 798 400 295</p>
+  <p><i class="fab fa-github"></i> <a href="https://github.com/morismutuma" target="_blank">github.com/morismutuma</a></p>
+  <p><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/moris-mutuma" target="_blank">linkedin.com/in/moris-mutuma</a></p>
+  <p><i class="fas fa-map-marker-alt"></i> P.O. Box 103480-00101, Nairobi, Kenya</p>
+</section>
+
+
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSe2GOO4IZDMpMGgAm209x3ekmqU8isa-vciD_JDzqEx2Xu3Sw/viewform?embedded=true" 
+  width="700" 
+  height="900" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0"
+  allowfullscreen>Loading…</iframe>
+
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2GOO4IZDMpMGgAm209x3ekmqU8isa-vciD_JDzqEx2Xu3Sw/viewform?embedded=true" width="640" height="1195" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  
+ <iframe src="https://docs.google.com/forms/d/e/YOUR-FORM-ID/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+ <section class="memberships-section">
+  <div class="memberships-container">
+    <h2>Memberships</h2>
+    <p>Member, Scientists of Kenya</p>
+  </div>
+</section>
+
+
+<section id="memberships">
+  <h2 style="text-align: center;">Memberships</h2>
+  <ol style="max-width: 600px; margin: auto; text-align: left;">
+    <li>Scientists of Kenya Association (SCOKA)</li>
+    <li>Internet Society – Kenya Chapter (ISOC Kenya)</li>
+    <li>Maasai Mara University Alumni Association</li>
+    <li>Kenya Red Cross Society – Volunteer Member</li>
+  </ol>
+</section>
+
+
+<section class="education-section">
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <strong>Maasai Mara University</strong> – BSc. Computer Science (First Class Honours)<br>
+      School of Pure and Applied Sciences
+    </li>
+  </ul>
+</section>
+
+<section class="experience-section">
+  <h2>Experience</h2>
+  <ul>
+    <li>
+      <strong>ICT Attaché – KALRO</strong> (May 2023 – August 2023)<br>
+      Provided technical support, installed and maintained ICT equipment, and assisted staff with software solutions.
+    </li>
+    <li>
+      <strong>Loan Officer and Marketer – Platinum Co. Ltd</strong> (June 2024 – November 2024)
+    </li>
+    <li>
+      <strong>Remote Internship – CodSoft (April 2025 – May 2025)</strong><br>
+      Completed tech-focused internship in AI, Web, and App Development.
+    </li>
+  </ul>
+</section>
+
+<section class="certifications-section">
+  <h2>Certifications</h2>
+  <ul>
+    <li>Oracle Academy – Database Foundations (March 2022)</li>
+    <li>Great Learning – Python Fundamentals (January 2023)</li>
+    <li>Great Learning – Introduction to Data Science (January 2023)</li>
+    <li>SkillUp – Introduction to Cyber Security (April 2022)</li>
+  </ul>
+</section>
+
+
+<section id="experience">
+  <h2>Experience</h2>
+
+  <h3>AI Intern – CodSoft (Remote, April 2025 – May 2025)</h3>
+  <ul>
+    <li>Built a movie genre classification model using NLP and ML techniques.</li>
+    <li>Designed, trained, and tested algorithms using Python and Scikit-learn.</li>
+  </ul>
+
+  <h3>Software Engineering Intern – CodSoft (April 2025)</h3>
+  <ul>
+    <li>Developed a Django-based Health Information System with REST API endpoints and database support.</li>
+  </ul>
+
+  <h3>Java Intern – CodSoft (April 2025)</h3>
+  <ul>
+    <li>Created a CLI-based number guessing game using Java.</li>
+  </ul>
+
+  <h3>Android Developer Intern – CodSoft (April 2025)</h3>
+  <ul>
+    <li>Built a To-Do List app using Java and Android Studio with SQLite integration.</li>
+  </ul>
+
+  <h3>Python Intern – CodSoft (April 2025)</h3>
+  <ul>
+    <li>Developed a command-line To-Do List app, scripting using Python and file I/O.</li>
+    <li>Developed a Calculator app using Python.</li>
+  </ul>
+
+  <h3>Loan Officer & Marketer – Platinum Co. Ltd (June–Nov 2024)</h3>
+  <ul>
+    <li>Promoted company products, handled client records, and supported software tools in a fintech environment.</li>
+  </ul>
+
+  <h3>ICT Attaché – Kenya Agricultural and Livestock Research Organization (KALRO) (May–Aug 2023)</h3>
+  <ul>
+    <li>Provided technical support and assisted in the installation and maintenance of ICT infrastructure.</li>
+  </ul>
+</section>
